@@ -1,5 +1,5 @@
 /**
- * Design system tokens for the Robe editorial / high-fashion brand.
+ * Design system tokens for the StyleSense editorial / high-fashion brand.
  *
  * These values mirror the custom tokens defined in tailwind.config.js
  * and are exported here for imperative usage (StyleSheet.create, SVG

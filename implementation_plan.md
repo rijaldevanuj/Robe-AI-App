@@ -1,8 +1,8 @@
-# 🧥 Robe — AI Fashion Assistant App
+# 👗 StyleSense — AI Fashion Assistant App
 
 > *"Others judge you by how you dress. Dress smarter."*
 
-**Robe** is a cross-platform mobile app that uses AI to recommend outfits from a user's own wardrobe based on the occasion, body type, and personal style. It also suggests new clothes from online stores like Myntra, Amazon, and Flipkart.
+**StyleSense** is a cross-platform mobile app that uses AI to recommend outfits from a user's own wardrobe based on the occasion, body type, and personal style. It also suggests new clothes from online stores like Myntra, Amazon, and Flipkart.
 
 ---
 
@@ -487,7 +487,7 @@ MODELS NEEDED:
 
 ```mermaid
 gantt
-    title Robe Development Roadmap
+    title StyleSense Development Roadmap
     dateFormat  YYYY-MM-DD
     
     section Phase 1 - Design

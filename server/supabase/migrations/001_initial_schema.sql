@@ -1,5 +1,5 @@
 -- ============================================================
--- Robe — Initial Database Schema
+-- StyleSense — Initial Database Schema
 -- ============================================================
 -- Run this in Supabase SQL Editor (Dashboard > SQL Editor > New Query)
 

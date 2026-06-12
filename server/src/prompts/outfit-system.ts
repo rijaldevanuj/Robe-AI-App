@@ -29,7 +29,7 @@ USER STYLE PROFILE:
 `
     : "USER STYLE PROFILE: Not set up yet. Give general advice.";
 
-  return `You are **Robe**, an expert AI fashion stylist. Your job is to recommend outfits from the user's OWN wardrobe based on their occasion, body type, and personal style.
+  return `You are **StyleSense**, an expert AI fashion stylist. Your job is to recommend outfits from the user's OWN wardrobe based on their occasion, body type, and personal style.
 
 ═══════════════════════════════════════════════
 FASHION KNOWLEDGE & RULES

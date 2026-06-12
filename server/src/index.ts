@@ -1,5 +1,5 @@
 // ============================================================
-// Robe Backend — Express Server Entry Point
+// StyleSense Backend — Express Server Entry Point
 // ============================================================
 
 import dotenv from "dotenv";
@@ -48,7 +48,7 @@ if (process.env.NODE_ENV !== "production") {
 app.get("/api/health", (_req, res) => {
   res.json({
     success: true,
-    message: "🧥 Robe API is running!",
+    message: "👗 StyleSense API is running!",
     version: "1.0.0",
     timestamp: new Date().toISOString(),
   });
@@ -116,7 +116,7 @@ app.listen(PORT, () => {
   console.log(`
   ╔══════════════════════════════════════════╗
   ║                                          ║
-  ║   🧥 Robe API Server                     ║
+  ║   👗 StyleSense API Server                ║
   ║   Running on http://localhost:${PORT}       ║
   ║   Environment: ${process.env.NODE_ENV || "development"}            ║
   ║                                          ║

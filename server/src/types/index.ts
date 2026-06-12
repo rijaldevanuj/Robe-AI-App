@@ -1,5 +1,5 @@
 // ============================================================
-// Robe Backend — Shared TypeScript Types
+// StyleSense Backend — Shared TypeScript Types
 // ============================================================
 
 import { Request } from "express";

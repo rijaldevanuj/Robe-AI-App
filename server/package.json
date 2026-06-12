@@ -1,7 +1,7 @@
 {
-  "name": "robe-server",
+  "name": "stylesense-server",
   "version": "1.0.0",
-  "description": "Robe AI Fashion Assistant — Backend API",
+  "description": "StyleSense AI Fashion Assistant — Backend API",
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts",

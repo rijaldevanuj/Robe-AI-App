@@ -1,5 +1,5 @@
 -- ============================================================
--- Robe — Storage Buckets Setup
+-- StyleSense — Storage Buckets Setup
 -- ============================================================
 -- Run this in Supabase SQL Editor AFTER the initial schema migration
 
