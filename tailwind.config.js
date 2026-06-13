@@ -9,15 +9,19 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#000000",
-        secondary: "#1A1A1A",
-        tertiary: "#4D4D4D",
-        "neutral-bg": "#F0F0F0",
-        "accent-destructive": "#A31D1D",
+        ink: "#1C1C1E",
+        ember: "#E8631A",
+        linen: "#E5DDD1",
+        stone: "#7D7D75",
       },
       fontFamily: {
-        serif: ["Noto Serif"],
-        sans: ["Inter"],
+        serif: ["PlayfairDisplay_700Bold"],
+        "serif-italic": ["PlayfairDisplay_700Bold_Italic"],
+        "serif-regular": ["PlayfairDisplay_400Regular"],
+        sans: ["Inter_400Regular"],
+        "sans-medium": ["Inter_500Medium"],
+        "sans-semibold": ["Inter_600SemiBold"],
+        "sans-bold": ["Inter_700Bold"],
       },
     },
   },
